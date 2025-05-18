@@ -92,6 +92,28 @@ Para todos os exercícios:
     - Potência mínima para 3 salas (com 10% segurança)
     - Gasto diário com energia elétrica
 
+### 9. Família
+- Classes: `Pessoa`, `Familia`
+- Funcionalidades:
+    - Adicionar pessoas à família
+    - Descobrir a pessoa mais velha com base na data de nascimento
+
+### 10. Setor e Funcionário
+- Classes: `Funcionario`, `Setor`
+- Funcionalidades:
+    - Adicionar funcionário
+    - Calcular folha de pagamento do setor ou por departamento
+    - Encontrar funcionário com maior salário
+    - Buscar funcionário por nome e matrícula
+
+### 11. Continente e País
+- Classes: `Pais`, `Continente`
+- Funcionalidades:
+    - Adicionar países a um continente
+    - Adicionar países de fronteira
+    - Verificar se dois países fazem fronteira
+    - Verificar fronteiras em comum entre dois países
+    - Encontrar o maior país do continente em área
 ---
 
 ## 🛠️ Tecnologias Utilizadas
