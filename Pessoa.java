@@ -6,7 +6,7 @@ public class Pessoa {
         this.nome = nome;
         this.endereco = endereco;
     }
-    
+
     public String getNome() {
         return nome;
     }
